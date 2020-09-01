@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/css/main.5f361e03.chunk.css",
-    "main.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/main.05e83e03.chunk.js",
-    "main.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/main.05e83e03.chunk.js.map",
-    "runtime-main.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/runtime-main.cfaade18.js",
-    "runtime-main.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/runtime-main.cfaade18.js.map",
-    "static/js/2.e9ede157.chunk.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/2.e9ede157.chunk.js",
-    "static/js/2.e9ede157.chunk.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/2.e9ede157.chunk.js.map",
-    "index.html": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/index.html",
-    "precache-manifest.e1fe9627898c826ea6aca525b33fe013.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/precache-manifest.e1fe9627898c826ea6aca525b33fe013.js",
-    "service-worker.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e9ede157.chunk.js.LICENSE.txt": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/2.e9ede157.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/media/logo.5d5d9eef.svg"
+    "main.css": "/my-app-commat/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-app-commat/static/js/main.451baf5e.chunk.js",
+    "main.js.map": "/my-app-commat/static/js/main.451baf5e.chunk.js.map",
+    "runtime-main.js": "/my-app-commat/static/js/runtime-main.112ffb4e.js",
+    "runtime-main.js.map": "/my-app-commat/static/js/runtime-main.112ffb4e.js.map",
+    "static/js/2.e9ede157.chunk.js": "/my-app-commat/static/js/2.e9ede157.chunk.js",
+    "static/js/2.e9ede157.chunk.js.map": "/my-app-commat/static/js/2.e9ede157.chunk.js.map",
+    "index.html": "/my-app-commat/index.html",
+    "precache-manifest.795ad9c66af681d462df69a7dd1cac8a.js": "/my-app-commat/precache-manifest.795ad9c66af681d462df69a7dd1cac8a.js",
+    "service-worker.js": "/my-app-commat/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-app-commat/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e9ede157.chunk.js.LICENSE.txt": "/my-app-commat/static/js/2.e9ede157.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-app-commat/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfaade18.js",
+    "static/js/runtime-main.112ffb4e.js",
     "static/js/2.e9ede157.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.05e83e03.chunk.js"
+    "static/js/main.451baf5e.chunk.js"
   ]
 }
